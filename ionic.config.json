@@ -1,0 +1,8 @@
+{
+  "name": "PasswordEK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "79d5bcb7"
+}
